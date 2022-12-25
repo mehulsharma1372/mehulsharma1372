@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mehulsharma1372
-- 👀 I’m interested in Python, Machene learning, Data Science...
-- 🌱 I’m currently learning Pthon, Machene learning....
+- 👀 I’m interested in Python, Web Scraping, Vulnerability Assessment and Cyber Threat Intel.
+- 🌱 I’m currently learning Ethical Hacking....
 - 💞️ I’m looking to collaborate on some exiting projects.
-- 📫 How to reach me LinkedIn: Mehul Sharma, Mail: smehul1372@gmail.com, Twitter: imehulsharma
+- 📫 How to reach me LinkedIn: Mehul Sharma, Mail: smehul1372@gmail.com.
 - Exiting things about me are: I'm also a poet and I play flute. 
 
 <!---
